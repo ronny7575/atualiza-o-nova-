@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.2.1",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/ronny7575/atualiza-o-nova-/main/Atualiza%C3%A7%C3%A3o%20config",
   "Sms": "BOTAR LINK DO SMS AQUI",
   "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "http://ronnypainelweb.net4gg.xyz/recarga/",
+  "UrlContato": "ronnypainelweb.net4gg.xyz/recarga/",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
   "Udp": [
@@ -37,7 +37,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "❣️TIM [SSL 1]",
+      "Name": "💙❣️TIM [SSL 1]",
       "FLAG": "tim",
       "Payload": "GET wss://cdnjs.cloudflare.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cdnjs.cloudflare.com",
